@@ -10,16 +10,25 @@
 ## 🚀 The Projects
 
 <br>
-### 📱CRUD made with React Native(frontEnd) and Node(backEnd) with MongoDb as database. <a href="#">Go to  the project !</a>
+
+### 📱 CRUD made with React Native(frontEnd) and Node(backEnd) with MongoDb as database. <a href="#">Go to the project !</a>
+
 <br>
 <br>
-<div>
 
 ![Pagina](./github/CadastroNative.gif)
 ![Pagina](./github/Delete.gif)
 ![Pagina](./github/EDITAR.gif)
 
-</div>
+<br>
+<br>
+
+### 📱 Basics of react native and a simple clone of instagram. With api Data. <a href="#">Go to the project !</a>
+
+<br>
+<br>
+
+![Pagina](./github/gif-react.gif)
 
 <br>
 <br>
