@@ -2,7 +2,7 @@ import axios from 'axios'
 
 
 const api = axios.create({
-    baseURL: "https://grupo-delta.herokuapp.com/user"
+    baseURL: process.env.MONGO_API
 })
 
 export default api
