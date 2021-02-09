@@ -1,0 +1,9 @@
+{
+    "env": {
+        "MYSQL_USER" : "root",
+        "MYSQL_PASSWORD" : "Perfume123",
+        "MYSQL_DATABASE" : "mydb",
+        "MYSQL_HOST" : "localhost",
+        "MYSQL_PORT" : "3306"
+    }
+}
