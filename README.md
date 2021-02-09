@@ -23,6 +23,10 @@
 <br>
 <br>
 
+<hr>
+<br>
+<br>
+
 ### 📱 Basics of react native and a simple clone of instagram. With api Data. <a href="#">Go to the project !</a>
 
 <br>
