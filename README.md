@@ -11,7 +11,7 @@
 
 <br>
 
-### 📱 CRUD made with React Native(frontEnd) and Node(backEnd) with MongoDb as database. <a href="#">Go to the project !</a>
+### 📱 CRUD made with React Native(frontEnd) and Node(backEnd) with MongoDb as database. <a href="https://github.com/gustavobacellarladeira/React-Native-My-Projects/tree/main/ReactNative-CRUD">Go to the project !</a>
 
 <br>
 <br>
@@ -27,7 +27,7 @@
 <br>
 <br>
 
-### 📱 Basics of react native and a simple clone of instagram. With api Data. <a href="#">Go to the project !</a>
+### 📱 Basics of react native and a simple clone of instagram. With api Data. <a href="https://github.com/gustavobacellarladeira/React-Native-My-Projects/tree/main/ReactNative-Clone-Intagram-basicsOfNative">Go to the project !</a>
 
 <br>
 <br>
